@@ -38,7 +38,7 @@ begin
       end;
       i := i - 2;
    end;
-   
+   Writeln('Это первая правка');
 end.
         
 
